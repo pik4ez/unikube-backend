@@ -1,0 +1,4 @@
+tunnels:
+  ng:
+    proto: http
+    addr: 8893
